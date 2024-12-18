@@ -31,7 +31,7 @@ Available at;
 
 ### [Kaggle : Live Code](https://www.kaggle.com/code/jasonldoyle/python-dashboard)
 # Page 1
-<img width="1486" alt="Screenshot 2024-12-18 at 12 08 41" src="https://github.com/user-attachments/assets/3ebc2053-ed2a-44b7-94f5-644c93381f8f" />
+<img width="1486" alt="Screenshot 2024-12-18 at 12 32 21" src="https://github.com/user-attachments/assets/1910bccc-8baa-44a1-b4a0-4cb44c1f4b1a" />
 <img width="1486" alt="Screenshot 2024-12-18 at 12 22 14" src="https://github.com/user-attachments/assets/718ffda2-1824-463e-ac1d-88a63fe3f431" />
 
 # Page 2
