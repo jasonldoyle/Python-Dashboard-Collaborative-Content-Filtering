@@ -1,6 +1,6 @@
 ### Description
 
-For a college end of term project, I was tasked with creating a a content and collaborative based filtering system for three datasets of customers. I had work on a random sample as the dataset size was too large to handle efficiently. But I was able to use the full dataset to create an interactive dashboard, which you can see screenshots of at the bottom of this ReadMe.
+For a college end of term project, I was tasked with creating a a content and collaborative based filtering system for three datasets of customers. I had to work on a random sample, as the dataset size was too large to handle efficiently. But I was able to use the full dataset to create an interactive dashboard, which you can see statics of at the bottom of this ReadMe.
 
 There are two goals with this project;
 
